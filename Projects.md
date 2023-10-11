@@ -11,3 +11,4 @@ Your answer should be in the following format:
 Add your entry below the last entry in this list:
 
 - [Nuxt Ionic Module](https://github.com/nuxt-modules/ionic), Cecelia Martinez, @ceceliacreates
+- [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance), Mikaela Caron, mikaelacaron
