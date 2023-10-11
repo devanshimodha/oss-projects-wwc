@@ -9,3 +9,5 @@ Your answer should be in the following format:
 -----------------------------
 
 Add your entry below the last entry in this list:
+
+- [Nuxt Ionic Module](https://github.com/nuxt-modules/ionic), Cecelia Martinez, @ceceliacreates
